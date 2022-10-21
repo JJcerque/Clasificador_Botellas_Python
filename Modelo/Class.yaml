@@ -1,0 +1,10 @@
+
+
+train: /content/Clasificador/Data/images/train  # train images (relative to 'path') 128 images
+val: /content/Clasificador/Data/images/val # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: B.Plástico
+  1: B.Tetrapack
+  
